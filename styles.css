@@ -5,7 +5,7 @@ body {
 
 
 
-h1 {
+header, h1{
   text-align: center;
   font-family: Verdana, Geneva, sans-serif;
   color: #4e345e;
@@ -16,5 +16,5 @@ h1 {
 }
 
 .footer {
-  
+
 }
