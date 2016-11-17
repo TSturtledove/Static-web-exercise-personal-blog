@@ -1,6 +1,8 @@
 
 body {
   background-color: #edf;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, sans-serif;
 }
 
 
@@ -11,10 +13,14 @@ header, h1{
   color: #4e345e;
 }
 
+
 .header {
 
 }
 
 .footer {
-
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-top: 3rem;
 }
